@@ -3,7 +3,7 @@ SECURITY WARNINGS
 -----------------
 
 
-* **You are responsible for your own computer security.** If your machine is compromised you **will** lose your ether, access to any contracts and possibly more. 
+* **BLAH are responsible for your own computer security.** If your machine is compromised you **will** lose your ether, access to any contracts and possibly more. 
 
 * **You are responsible for your own actions.** If you mess something up or break any laws while using this software, it's your fault, and your fault only.
 
